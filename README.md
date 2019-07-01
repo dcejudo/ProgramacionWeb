@@ -1,2 +1,2 @@
 # Bienvenido!
-aquí encontrarás varios de mis proyectos elaborados en mi carrrera como Ingeniero en Software
+Aquí encontrarás varios de mis proyectos elaborados en mi carrrera como Ingeniero en Software
